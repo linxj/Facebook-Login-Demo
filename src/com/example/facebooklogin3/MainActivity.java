@@ -6,6 +6,8 @@ import android.support.v4.app.FragmentActivity;
 public class MainActivity extends FragmentActivity {
 	
 	private MainFragment mainFragment;
+	
+	
 
 	@Override
 	public void onCreate(Bundle savedInstanceState) {
